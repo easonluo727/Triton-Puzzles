@@ -1,5 +1,3 @@
-"""Solutions for Triton Puzzles 9, 10, and 11."""
-
 import triton
 import triton.language as tl
 
